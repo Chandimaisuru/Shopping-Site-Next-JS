@@ -10,9 +10,9 @@ function Navbar() {
 
                 <Link className='navbar__link relative' href="#">CATEGORIES</Link>
                 
-                <Link className='navbar__link relative' href="#">MEN'S</Link>
+                <Link className='navbar__link relative' href="#">MENS</Link>
                 
-                <Link className='navbar__link relative' href="#">WOMEN'S</Link>
+                <Link className='navbar__link relative' href="#">WOMENS</Link>
                 
                 <Link className='navbar__link relative' href="#">BLOG</Link>
 
